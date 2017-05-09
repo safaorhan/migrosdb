@@ -1,0 +1,2 @@
+# migrosdb
+Migros Mağaza Veritabanı
