@@ -15458,5 +15458,615 @@
     "type": "MM",
     "district": "MERKEZ",
     "city": "Iğdır"
+  },
+  {
+    "number": "2749",
+    "name": "5M YENİBOSNA STARCİTY",
+    "address": "Köyaltı Mevkii Merkez Mah. Değirmenbahçe Cad. Değirmenbahçe Sok. No: 2 Altınyıldız Fab. Karşısı Yenibosna / Bahçelievler / İstanbul",
+    "lat": 41.0115966796875,
+    "lng": 28.8161525726318,
+    "type": "5M",
+    "district": "BAHÇELİEVLER",
+    "city": "İstanbul"
+  },
+  {
+    "number": "4190",
+    "name": "5M MALL OF",
+    "address": "ZİYA GÖKALP MAH. SÜLEYMAN DEMİREL CAD. NO:7 MAĞAZA NO:11 İKİTELLİ BAŞAKŞEHİR/İSTANBUL",
+    "lat": 41.0622291564941,
+    "lng": 28.8069152832031,
+    "type": "5M",
+    "district": "BAŞAKŞEHİR",
+    "city": "İstanbul"
+  },
+  {
+    "number": "607",
+    "name": "5M BEYLİKDÜZÜ",
+    "address": "BEYLIKDÜZÜ MAH.E-5 KARAYOLU ÜZERI SAKARYA CAD.BÜYÜKÇEKMECE/İSTANBUL",
+    "lat": 41.0068435668945,
+    "lng": 28.6574287414551,
+    "type": "5M",
+    "district": "BEYLİKDÜZÜ",
+    "city": "İstanbul"
+  },
+  {
+    "number": "3024",
+    "name": "5M TORİUM",
+    "address": "Saadetdere Mah. 68 Sok. No: 50 Torium AVM. D-21 E5 Karayolu Haramidere Sanayi Sitesi Karşısı / Esenyurt / İstanbul",
+    "lat": 41.0036010742188,
+    "lng": 28.6874485015869,
+    "type": "5M",
+    "district": "ESENYURT",
+    "city": "İstanbul"
+  },
+  {
+    "number": "3553",
+    "name": "5M AKBATI",
+    "address": "Sanayi Mah. 1655. Sok. No: 6/1-21-22-23 Esenkent Mevkii Akbatı Avm. Esenyurt / İstanbul",
+    "lat": 41.0563354492188,
+    "lng": 28.6675033569336,
+    "type": "5M",
+    "district": "ESENYURT",
+    "city": "İstanbul"
+  },
+  {
+    "number": "2145",
+    "name": "5M SİLİVRİ",
+    "address": "MIMAR SINAN MAH.AHMET HAMOĞLU CAD. SILIVRI/İSTANBUL",
+    "lat": 41.0826263427734,
+    "lng": 28.2035732269287,
+    "type": "5M",
+    "district": "SİLİVRİ",
+    "city": "İstanbul"
+  },
+  {
+    "number": "4775",
+    "name": "5M ATLASPARK AVM İSTANBUL",
+    "address": "ABDURRAHMAN GAZİ MAH.FATİH BULVARINO:67 SULTANBEYLİ/İSTANBUL",
+    "lat": 40.969539642334,
+    "lng": 29.2609920501709,
+    "type": "5M",
+    "district": "SULTANBEYLİ",
+    "city": "İstanbul"
+  },
+  {
+    "number": "3890",
+    "name": "5M SAMSUN",
+    "address": "YENİ MAHALLE ÇARŞAMBA CAD. NO:52/Z43-Z47-Z50 CANİK/SAMSUN",
+    "lat": 41.2769508361816,
+    "lng": 36.3528594970703,
+    "type": "5M",
+    "district": "CANİK",
+    "city": "Samsun"
+  },
+  {
+    "number": "3515",
+    "name": "5M İNEGÖL BURSA",
+    "address": "Osmaniye Mah. Altay Cad. No: 27 D Blok Z 048 İnegöl / Bursa",
+    "lat": 40.0849418640137,
+    "lng": 29.5098133087158,
+    "type": "5M",
+    "district": "İNEGÖL",
+    "city": "Bursa"
+  },
+  {
+    "number": "3168",
+    "name": "5M ERYAMAN ANKARA",
+    "address": "Eryaman Mah. 19 Mayıs Cad. No: 5 Etimesgut / Ankara",
+    "lat": 39.9798355102539,
+    "lng": 32.6253547668457,
+    "type": "5M",
+    "district": "ETİMESGUT",
+    "city": "Ankara"
+  },
+  {
+    "number": "710",
+    "name": "5M ANKARA",
+    "address": "GAZI MAH.AKKÖPRÜ KAVŞAĞI NO:2 ANAKAR EMNIYET SARAYI BITIŞIĞI YENIMAHALLE/ANKARA",
+    "lat": 39.9502868652344,
+    "lng": 32.8311195373535,
+    "type": "5M",
+    "district": "YENİMAHALLE",
+    "city": "Ankara"
+  },
+  {
+    "number": "2890",
+    "name": "5M AFYON",
+    "address": "DÖRTYOL MAH.TURGUT ÖZAL CAD.NO:40/1 MERKEZ/AFYONKARAHİSAR",
+    "lat": 38.7939224243164,
+    "lng": 30.4582633972168,
+    "type": "5M",
+    "district": "MERKEZ",
+    "city": "Afyonkarahisar"
+  },
+  {
+    "number": "3577",
+    "name": "5M FORUM KAYSERİ",
+    "address": "Hunat Mah. Ahmet Yesevi Blv. Melikgazi / Kayseri",
+    "lat": 38.7230834960938,
+    "lng": 35.4967994689941,
+    "type": "5M",
+    "district": "MELİKGAZİ",
+    "city": "Kayseri"
+  },
+  {
+    "number": "4206",
+    "name": "5M DİYARBAKIR",
+    "address": "Fırat Mahallesi Urfa Bul. Ceylan Karavil AVM No:130/Z1 KAYAPINAR/DİYARBAKIR",
+    "lat": 37.9277839660645,
+    "lng": 40.1710052490234,
+    "type": "5M",
+    "district": "KAYAPINAR",
+    "city": "Diyarbakır"
+  },
+  {
+    "number": "2503",
+    "name": "5M MALATYA PARK",
+    "address": "İnönü Mahallesi Buhara Caddesi No:247/Z-2 YEŞİLYURT/MALATYA",
+    "lat": 38.3491363525391,
+    "lng": 38.2966079711914,
+    "type": "5M",
+    "district": "YEŞİLYURT",
+    "city": "Malatya"
+  },
+  {
+    "number": "3363",
+    "name": "5M ADANA OPTİMUM",
+    "address": "Sinanpaşa Mah. Hacı Sabancı Blv. No: 28 Optımum Adana AVM Yüreğir / Adana",
+    "lat": 36.9910507202148,
+    "lng": 35.340404510498,
+    "type": "5M",
+    "district": "YÜREĞİR",
+    "city": "Adana"
+  },
+  {
+    "number": "971",
+    "name": "5M ANTALYA",
+    "address": "Arapsuyu Mah. Atatürk Bulv. 5M MİGROS Apt. No: 3 / Z18 KONYAALTI / ANTALYA",
+    "lat": 36.8826179504395,
+    "lng": 30.6594142913818,
+    "type": "5M",
+    "district": "KONYAALTI",
+    "city": "Antalya"
+  },
+  {
+    "number": "3730",
+    "name": "5M KONACIK BODRUM",
+    "address": "Merkez Mah. Atatürk Blv. No:224/1 Konacık-Bodrum/İstanbul",
+    "lat": 37.0567855834961,
+    "lng": 27.3690567016602,
+    "type": "5M",
+    "district": "BODRUM",
+    "city": "Muğla"
+  },
+  {
+    "number": "4196",
+    "name": "5M KUŞADASI",
+    "address": "YAVANSU MAH KARAOVA 1.SOKAK G BLOK NO8-7/2 KUŞADASI AYDIN",
+    "lat": 37.8095703125,
+    "lng": 27.2772026062012,
+    "type": "5M",
+    "district": "KUŞADASI",
+    "city": "Aydın"
+  },
+  {
+    "number": "3227",
+    "name": "5M BALCOVA IZMIR",
+    "address": "Korutürk Mah. Mithatpaşa Cad. No: 1460 Malta kuyusu Mevki Balçova / İzmir",
+    "lat": 38.3949546813965,
+    "lng": 27.0482749938965,
+    "type": "5M",
+    "district": "BALÇOVA",
+    "city": "İzmir"
+  },
+  {
+    "number": "3672",
+    "name": "5M GAZİEMİR OPTİMUM",
+    "address": "Akçay Cd. Optimum Alışveriş Merkezi No:101 Gaziemir/izmir",
+    "lat": 38.3385467529297,
+    "lng": 27.1346206665039,
+    "type": "5M",
+    "district": "GAZİEMİR",
+    "city": "İzmir"
+  },
+  {
+    "number": "2163",
+    "name": "5M MANİSA",
+    "address": "Laleli Mah. 5210 Sokak No: 1/A YUNUSEMRE/MANİSA",
+    "lat": 38.6153335571289,
+    "lng": 27.3893299102783,
+    "type": "5M",
+    "district": "YUNUSEMRE",
+    "city": "Manisa"
+  },
+  {
+    "number": "3912",
+    "name": "5M KAHRAMANMARAŞ",
+    "address": "Şazi Bey Mahallesi Haydar Aliyev Bul. No:3/B105 ONİKİŞUBAT/KAHRAMANMARAŞ",
+    "lat": 37.5697212219238,
+    "lng": 36.9219436645508,
+    "type": "5M",
+    "district": "ONIKIŞUBAT",
+    "city": "Kahramanmaraş"
+  },
+  {
+    "number": "941",
+    "name": "ATAŞEHİR MACROCENTER",
+    "address": "BRANDİUM AVM -1. BODRUM KAT NO: 1B 03.04 DUDULLU YOLU CAD. ERENKÖY GÜMRÜK KARŞISI KÜÇÜKBAKKALKÖY ATAŞEHİR/İSTANBUL",
+    "lat": 40.9823760986328,
+    "lng": 29.1320304870605,
+    "type": "MACROCENTER",
+    "district": "ATAŞEHİR",
+    "city": "İstanbul"
+  },
+  {
+    "number": "962",
+    "name": "ATAŞEHİR MACROCENTER",
+    "address": "Barboros Mah. Dereboyu Cad. Ardıç Sok. Varyap-Merdiyen H Blok Batı Ataşehir / İstanbul",
+    "lat": 40.9983558654785,
+    "lng": 29.1015491485596,
+    "type": "MACROCENTER",
+    "district": "ATAŞEHİR",
+    "city": "İstanbul"
+  },
+  {
+    "number": "936",
+    "name": "BÜYÜKÇEKMECE MACROCENTER",
+    "address": "ÇAMAKLI MAH.ALKOP YOLU CAD.TEM 8 HADIMKÖY GIŞELER MEVKII ALKENT YEDITEPE VILLALARI BÜYÜKÇEKMECE/İSTANBUL",
+    "lat": 41.0776405334473,
+    "lng": 28.6231231689453,
+    "type": "MACROCENTER",
+    "district": "BÜYÜKÇEKMECE",
+    "city": "İstanbul"
+  },
+  {
+    "number": "948",
+    "name": "SARIYER MACROCENTER",
+    "address": "Reşitpaşa Mah. İstinye Bayırı Cad. No: 73 İstinye Park Avm. Sarıyer / İstanbul",
+    "lat": 41.110408782959,
+    "lng": 29.033088684082,
+    "type": "MACROCENTER",
+    "district": "SARIYER",
+    "city": "İstanbul"
+  },
+  {
+    "number": "965",
+    "name": "SARIYER MACROCENTER",
+    "address": "YENIKÖY MAH. KÖYBAŞI CAD. NO 38 SARIYER/İSTANBUL",
+    "lat": 41.1268081665039,
+    "lng": 29.069845199585,
+    "type": "MACROCENTER",
+    "district": "SARIYER",
+    "city": "İstanbul"
+  },
+  {
+    "number": "959",
+    "name": "SARIYER MACROCENTER",
+    "address": "KİLYOS CAD. NO:246 B.19/1 USKUMRUKÖY SARIYER/İSTANBUL",
+    "lat": 41.2128028869629,
+    "lng": 29.0385856628418,
+    "type": "MACROCENTER",
+    "district": "SARIYER",
+    "city": "İstanbul"
+  },
+  {
+    "number": "966",
+    "name": "SARIYER MACROCENTER",
+    "address": "Vişne 2 Mah. 3. Cad. No: 2/1 Garanti Koza Zekeriyaköy Evleri Sarıyer / İstanbul",
+    "lat": 41.2088813781738,
+    "lng": 29.0227508544922,
+    "type": "MACROCENTER",
+    "district": "SARIYER",
+    "city": "İstanbul"
+  },
+  {
+    "number": "938",
+    "name": "BAKIRKÖY MACROCENTER",
+    "address": "Şenlikköy Mah. Yeşilköy Halkalı Cad. Aqua Florya AVM Bakırköy / İstanbul",
+    "lat": 40.9660530090332,
+    "lng": 28.7975845336914,
+    "type": "MACROCENTER",
+    "district": "BAKIRKÖY",
+    "city": "İstanbul"
+  },
+  {
+    "number": "947",
+    "name": "EYÜP MACROCENTER",
+    "address": "Göktürk Mah. İstanbul Cad. Artell Forum Sitesi No: 17/20 Göktürk / Eyüp / İstanbul",
+    "lat": 41.1797065734863,
+    "lng": 28.8838119506836,
+    "type": "MACROCENTER",
+    "district": "EYÜP",
+    "city": "İstanbul"
+  },
+  {
+    "number": "951",
+    "name": "EYÜP MACROCENTER",
+    "address": "GÖKTÜRK MAH.KEMERBURGAZ YOLU KEMER COUNTRY EYÜP/İSTANBUL",
+    "lat": 41.1762657165527,
+    "lng": 28.9004783630371,
+    "type": "MACROCENTER",
+    "district": "EYÜP",
+    "city": "İstanbul"
+  },
+  {
+    "number": "943",
+    "name": "ŞİŞLİ MACROCENTER",
+    "address": "Teşvikiye Mah. Teşvikiye Cad. No:160/B 310 Nişantaşı /Şişli /İstanbul",
+    "lat": 41.0511131286621,
+    "lng": 28.9922924041748,
+    "type": "MACROCENTER",
+    "district": "ŞİŞLİ",
+    "city": "İstanbul"
+  },
+  {
+    "number": "949",
+    "name": "ŞİŞLİ MACROCENTER",
+    "address": "ESENTEPE MAH.BÜYÜKDERE CAD. KANYON AVM-2.BODRUM KAT NO:185 ŞİŞLİ/İSTANBUL",
+    "lat": 41.0781288146973,
+    "lng": 29.0116996765137,
+    "type": "MACROCENTER",
+    "district": "ŞİŞLİ",
+    "city": "İstanbul"
+  },
+  {
+    "number": "957",
+    "name": "ŞİŞLİ MACROCENTER",
+    "address": "HARBIYE MAH .ABDI İPEKÇI CAD. NO 24-28 ADA APT. NIŞANTAŞI/ŞIŞLI/İSTANBUL",
+    "lat": 41.0491905212402,
+    "lng": 28.9919204711914,
+    "type": "MACROCENTER",
+    "district": "ŞİŞLİ",
+    "city": "İstanbul"
+  },
+  {
+    "number": "967",
+    "name": "BEŞİKTAŞ MACROCENTER",
+    "address": "LEVAZIM MAH.KORU SOKAK NO:2 ZORLU CENTER AVM1.KAT BEŞİKTAŞBEŞİKTAŞ/İSTANBUL",
+    "lat": 41.0668144226074,
+    "lng": 29.0157909393311,
+    "type": "MACROCENTER",
+    "district": "BEŞİKTAŞ",
+    "city": "İstanbul"
+  },
+  {
+    "number": "953",
+    "name": "BEŞİKTAŞ MACROCENTER",
+    "address": "KURUÇEŞME MAH.MUALLIM NACI CAD. NO:170 BEŞIKTAŞ/İSTANBUL",
+    "lat": 41.0580101013184,
+    "lng": 29.0356044769287,
+    "type": "MACROCENTER",
+    "district": "BEŞİKTAŞ",
+    "city": "İstanbul"
+  },
+  {
+    "number": "934",
+    "name": "BEŞİKTAŞ MACROCENTER",
+    "address": "ETILER MAH.NISPETIYE CAD.NO:325 AKMERKEZ F BLOK BEŞIKTAŞ/İSTANBUL",
+    "lat": 41.0768356323242,
+    "lng": 29.0275936126709,
+    "type": "MACROCENTER",
+    "district": "BEŞİKTAŞ",
+    "city": "İstanbul"
+  },
+  {
+    "number": "956",
+    "name": "BEŞİKTAŞ MACROCENTER",
+    "address": "NİSPETİYE CAD.NO:10/107 LEVENT-BEŞİKTAŞ",
+    "lat": 41.0741195678711,
+    "lng": 29.0169467926025,
+    "type": "MACROCENTER",
+    "district": "BEŞİKTAŞ",
+    "city": "İstanbul"
+  },
+  {
+    "number": "942",
+    "name": "KADIKÖY MACROCENTER",
+    "address": "Fenerbahçe Mah. Cemil Topuzlu Cad. No:4/A Kadıköy/İstanbul",
+    "lat": 40.973934173584,
+    "lng": 29.0473175048828,
+    "type": "MACROCENTER",
+    "district": "KADIKÖY",
+    "city": "İstanbul"
+  },
+  {
+    "number": "933",
+    "name": "ÜSKÜDAR MACROCENTER",
+    "address": "AKASYA TİCARET MERKEZİ ACIBADEM MH.ÇEÇEN SK. NO:12",
+    "lat": 41.0018615722656,
+    "lng": 29.0546741485596,
+    "type": "MACROCENTER",
+    "district": "ÜSKÜDAR",
+    "city": "İstanbul"
+  },
+  {
+    "number": "932",
+    "name": "ÜSKÜDAR MACROCENTER",
+    "address": "Acıbadem Mah.Acıbadem Cad. No:166/AÜSKÜDAR/İSTANBUL ÜSKÜDAR/İSTANBUL",
+    "lat": 41.0087661743164,
+    "lng": 29.0504760742188,
+    "type": "MACROCENTER",
+    "district": "ÜSKÜDAR",
+    "city": "İstanbul"
+  },
+  {
+    "number": "940",
+    "name": "BEYKOZ MACROCENTER",
+    "address": "Acarlar Mah. 9. Cadde No: 9BEYKOZ/İSTANBUL BEYKOZ/İSTANBUL",
+    "lat": 41.1094856262207,
+    "lng": 29.1217250823975,
+    "type": "MACROCENTER",
+    "district": "BEYKOZ",
+    "city": "İstanbul"
+  },
+  {
+    "number": "931",
+    "name": "BEYKOZ MACROCENTER",
+    "address": "Acarlar Mah. 9. Cad. No: 9 Beykoz / İstanbul",
+    "lat": 41.1094856262207,
+    "lng": 29.1217250823975,
+    "type": "MACROCENTER",
+    "district": "BEYKOZ",
+    "city": "İstanbul"
+  },
+  {
+    "number": "955",
+    "name": "ÇANKAYA MACROCENTER",
+    "address": "KIZILIRMAK MAH. DUMLUPINAR BLV. NO: 3/C1 06520 SÖĞÜTÖZ ÇANKAYA / ANKARA",
+    "lat": 39.9114761352539,
+    "lng": 32.8127708435059,
+    "type": "MACROCENTER",
+    "district": "ÇANKAYA",
+    "city": "Ankara"
+  },
+  {
+    "number": "939",
+    "name": "ÇANKAYA MACROCENTER",
+    "address": "Koru Mah. 2432. Cad. (Eski 8.Cadde) No:192 ÇANKAYA/ANKARA",
+    "lat": 39.8829383850098,
+    "lng": 32.6861381530762,
+    "type": "MACROCENTER",
+    "district": "ÇANKAYA",
+    "city": "Ankara"
+  },
+  {
+    "number": "950",
+    "name": "ÇANKAYA MACROCENTER",
+    "address": "Çankaya Mah.İran Cad.No:8A/2ÇANKAYA/ANKARA ÇANKAYA/ANKARA",
+    "lat": 39.8990707397461,
+    "lng": 32.8625259399414,
+    "type": "MACROCENTER",
+    "district": "ÇANKAYA",
+    "city": "Ankara"
+  },
+  {
+    "number": "958",
+    "name": "ÇANKAYA MACROCENTER",
+    "address": "Oran Mahallesi, Kudüs Caddesi No:6/A-14 ÇANKAYA/ANKARA",
+    "lat": 39.8497161865234,
+    "lng": 32.8351745605469,
+    "type": "MACROCENTER",
+    "district": "ÇANKAYA",
+    "city": "Ankara"
+  },
+  {
+    "number": "945",
+    "name": "ÇANKAYA MACROCENTER",
+    "address": "BÜYÜKESAT MAH.UĞUR MUMCU CAD.NO:62 ÇANKAYA\\ANKARA",
+    "lat": 39.8934211730957,
+    "lng": 32.8767356872559,
+    "type": "MACROCENTER",
+    "district": "ÇANKAYA",
+    "city": "Ankara"
+  },
+  {
+    "number": "935",
+    "name": "ÇEŞME MACROCENTER",
+    "address": "İSMET PAŞA MAH. 6033 SK. NO:4 ALAÇATI/ÇEŞME/İZMİR",
+    "lat": 38.2894287109375,
+    "lng": 26.3832912445068,
+    "type": "MACROCENTER",
+    "district": "ÇEŞME",
+    "city": "İzmir"
+  },
+  {
+    "number": "954",
+    "name": "KARŞIYAKA MACROCENTER",
+    "address": "MAVİŞEHİR MAH.AZİZ NESİN BULVARI NO:26 B BLOK KARŞIYAKA\\ŞİZMİR",
+    "lat": 38.4725151062012,
+    "lng": 27.0742645263672,
+    "type": "MACROCENTER",
+    "district": "KARŞIYAKA",
+    "city": "İzmir"
+  },
+  {
+    "number": "937",
+    "name": "KONAK MACROCENTER",
+    "address": "KÜLTÜR MAH.TALATPAŞA BULVERI NO:11/B KONAK",
+    "lat": 38.4336128234863,
+    "lng": 27.13987159729,
+    "type": "MACROCENTER",
+    "district": "KONAK",
+    "city": "İzmir"
+  },
+  {
+    "number": "961",
+    "name": "BODRUM MACROCENTER",
+    "address": "Göltürkbükü Mahallesi ,Atatürk Caddesi,No: 24/1-2BODRUM/MUĞLA BODRUM/MUĞLA",
+    "lat": 0,
+    "lng": 0,
+    "type": "MACROCENTER",
+    "district": "BODRUM",
+    "city": "Muğla"
+  },
+  {
+    "number": "964",
+    "name": "BODRUM MACROCENTER",
+    "address": "PAL MARİNA ÇÖKERTME CD. NO:6 YALIKAVAK/BODRUM/MUĞLA",
+    "lat": 37.1031265258789,
+    "lng": 27.2877178192139,
+    "type": "MACROCENTER",
+    "district": "BODRUM",
+    "city": "Muğla"
+  },
+  {
+    "number": "963",
+    "name": "BODRUM MACROCENTER",
+    "address": "Merkez Mah. Tahsildar İbrahim Sok. No: 8/A Bodrum / Muğla",
+    "lat": 37.1044998168945,
+    "lng": 27.2918033599854,
+    "type": "MACROCENTER",
+    "district": "BODRUM",
+    "city": "Muğla"
+  },
+  {
+    "number": "944",
+    "name": "BODRUM MACROCENTER",
+    "address": "GAZİ MUSTAFA KEMAL BLV. NO:26 D MARİN AVM 12-1 TURGUTREİS/BODRUM/MUĞLA",
+    "lat": 37.0030555725098,
+    "lng": 27.2580547332764,
+    "type": "MACROCENTER",
+    "district": "BODRUM",
+    "city": "Muğla"
+  },
+  {
+    "number": "946",
+    "name": "FETHİYE MACROCENTER",
+    "address": "Cumhuriyet Mah.Turgut Özal Cad.Okaliptus İş MerkezGöcekFETHİYE/MUĞLA",
+    "lat": 0,
+    "lng": 0,
+    "type": "MACROCENTER",
+    "district": "FETHİYE",
+    "city": "Muğla"
+  },
+  {
+    "address": "SELİMİYE MAH.BURUNCUK SOKAK NO:58/1 ",
+    "name": "MARMARİS MACROCENTER",
+    "district": "MARMARİS",
+    "type": "MACROCENTER",
+    "lat": 36.7059322,
+    "lng": 28.0940486,
+    "number": "970",
+    "city": "Muğla"
+  },
+  {
+    "number": "952",
+    "name": "KONYAALTI MACROCENTER",
+    "address": "Liman Mah.Atatürk Blv.Necla Bileydi Apt.A/Blok No:242 A-5/242 B-6 Konyaaltı/Antalya",
+    "lat": 36.8480834960938,
+    "lng": 30.6119842529297,
+    "type": "MACROCENTER",
+    "district": "KONYAALTI",
+    "city": "Antalya"
+  },
+  {
+    "number": "960",
+    "name": "MURATPAŞA MACROCENTER",
+    "address": "Fener Mah. Tekelioğlu Cad. No: 55 Terra City AVM Muratpaşa / Antalya",
+    "lat": 36.8526420593262,
+    "lng": 30.7565689086914,
+    "type": "MACROCENTER",
+    "district": "MURATPAŞA",
+    "city": "Antalya"
   }
 ]
