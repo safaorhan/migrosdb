@@ -15458,5 +15458,615 @@
     "type": "MM",
     "district": "MERKEZ",
     "city": "IÄŸdÄ±r"
+  },
+  {
+    "number": "2749",
+    "name": "5M YENÄ°BOSNA STARCÄ°TY",
+    "address": "KÃ¶yaltÄ± Mevkii Merkez Mah. DeÄŸirmenbahÃ§e Cad. DeÄŸirmenbahÃ§e Sok. No: 2 AltÄ±nyÄ±ldÄ±z Fab. KarÅŸÄ±sÄ± Yenibosna / BahÃ§elievler / Ä°stanbul",
+    "lat": 41.0115966796875,
+    "lng": 28.8161525726318,
+    "type": "5M",
+    "district": "BAHÃ‡ELÄ°EVLER",
+    "city": "Ä°stanbul"
+  },
+  {
+    "number": "4190",
+    "name": "5M MALL OF",
+    "address": "ZÄ°YA GÃ–KALP MAH. SÃœLEYMAN DEMÄ°REL CAD. NO:7 MAÄžAZA NO:11 Ä°KÄ°TELLÄ° BAÅžAKÅžEHÄ°R/Ä°STANBUL",
+    "lat": 41.0622291564941,
+    "lng": 28.8069152832031,
+    "type": "5M",
+    "district": "BAÅžAKÅžEHÄ°R",
+    "city": "Ä°stanbul"
+  },
+  {
+    "number": "607",
+    "name": "5M BEYLÄ°KDÃœZÃœ",
+    "address": "BEYLIKDÃœZÃœ MAH.E-5 KARAYOLU ÃœZERI SAKARYA CAD.BÃœYÃœKÃ‡EKMECE/Ä°STANBUL",
+    "lat": 41.0068435668945,
+    "lng": 28.6574287414551,
+    "type": "5M",
+    "district": "BEYLÄ°KDÃœZÃœ",
+    "city": "Ä°stanbul"
+  },
+  {
+    "number": "3024",
+    "name": "5M TORÄ°UM",
+    "address": "Saadetdere Mah. 68 Sok. No: 50 Torium AVM. D-21 E5 Karayolu Haramidere Sanayi Sitesi KarÅŸÄ±sÄ± / Esenyurt / Ä°stanbul",
+    "lat": 41.0036010742188,
+    "lng": 28.6874485015869,
+    "type": "5M",
+    "district": "ESENYURT",
+    "city": "Ä°stanbul"
+  },
+  {
+    "number": "3553",
+    "name": "5M AKBATI",
+    "address": "Sanayi Mah. 1655. Sok. No: 6/1-21-22-23 Esenkent Mevkii AkbatÄ± Avm. Esenyurt / Ä°stanbul",
+    "lat": 41.0563354492188,
+    "lng": 28.6675033569336,
+    "type": "5M",
+    "district": "ESENYURT",
+    "city": "Ä°stanbul"
+  },
+  {
+    "number": "2145",
+    "name": "5M SÄ°LÄ°VRÄ°",
+    "address": "MIMAR SINAN MAH.AHMET HAMOÄžLU CAD. SILIVRI/Ä°STANBUL",
+    "lat": 41.0826263427734,
+    "lng": 28.2035732269287,
+    "type": "5M",
+    "district": "SÄ°LÄ°VRÄ°",
+    "city": "Ä°stanbul"
+  },
+  {
+    "number": "4775",
+    "name": "5M ATLASPARK AVM Ä°STANBUL",
+    "address": "ABDURRAHMAN GAZÄ° MAH.FATÄ°H BULVARINO:67 SULTANBEYLÄ°/Ä°STANBUL",
+    "lat": 40.969539642334,
+    "lng": 29.2609920501709,
+    "type": "5M",
+    "district": "SULTANBEYLÄ°",
+    "city": "Ä°stanbul"
+  },
+  {
+    "number": "3890",
+    "name": "5M SAMSUN",
+    "address": "YENÄ° MAHALLE Ã‡ARÅžAMBA CAD. NO:52/Z43-Z47-Z50 CANÄ°K/SAMSUN",
+    "lat": 41.2769508361816,
+    "lng": 36.3528594970703,
+    "type": "5M",
+    "district": "CANÄ°K",
+    "city": "Samsun"
+  },
+  {
+    "number": "3515",
+    "name": "5M Ä°NEGÃ–L BURSA",
+    "address": "Osmaniye Mah. Altay Cad. No: 27 D Blok Z 048 Ä°negÃ¶l / Bursa",
+    "lat": 40.0849418640137,
+    "lng": 29.5098133087158,
+    "type": "5M",
+    "district": "Ä°NEGÃ–L",
+    "city": "Bursa"
+  },
+  {
+    "number": "3168",
+    "name": "5M ERYAMAN ANKARA",
+    "address": "Eryaman Mah. 19 MayÄ±s Cad. No: 5 Etimesgut / Ankara",
+    "lat": 39.9798355102539,
+    "lng": 32.6253547668457,
+    "type": "5M",
+    "district": "ETÄ°MESGUT",
+    "city": "Ankara"
+  },
+  {
+    "number": "710",
+    "name": "5M ANKARA",
+    "address": "GAZI MAH.AKKÃ–PRÃœ KAVÅžAÄžI NO:2 ANAKAR EMNIYET SARAYI BITIÅžIÄžI YENIMAHALLE/ANKARA",
+    "lat": 39.9502868652344,
+    "lng": 32.8311195373535,
+    "type": "5M",
+    "district": "YENÄ°MAHALLE",
+    "city": "Ankara"
+  },
+  {
+    "number": "2890",
+    "name": "5M AFYON",
+    "address": "DÃ–RTYOL MAH.TURGUT Ã–ZAL CAD.NO:40/1 MERKEZ/AFYONKARAHÄ°SAR",
+    "lat": 38.7939224243164,
+    "lng": 30.4582633972168,
+    "type": "5M",
+    "district": "MERKEZ",
+    "city": "Afyonkarahisar"
+  },
+  {
+    "number": "3577",
+    "name": "5M FORUM KAYSERÄ°",
+    "address": "Hunat Mah. Ahmet Yesevi Blv. Melikgazi / Kayseri",
+    "lat": 38.7230834960938,
+    "lng": 35.4967994689941,
+    "type": "5M",
+    "district": "MELÄ°KGAZÄ°",
+    "city": "Kayseri"
+  },
+  {
+    "number": "4206",
+    "name": "5M DÄ°YARBAKIR",
+    "address": "FÄ±rat Mahallesi Urfa Bul. Ceylan Karavil AVM No:130/Z1 KAYAPINAR/DÄ°YARBAKIR",
+    "lat": 37.9277839660645,
+    "lng": 40.1710052490234,
+    "type": "5M",
+    "district": "KAYAPINAR",
+    "city": "DiyarbakÄ±r"
+  },
+  {
+    "number": "2503",
+    "name": "5M MALATYA PARK",
+    "address": "Ä°nÃ¶nÃ¼ Mahallesi Buhara Caddesi No:247/Z-2 YEÅžÄ°LYURT/MALATYA",
+    "lat": 38.3491363525391,
+    "lng": 38.2966079711914,
+    "type": "5M",
+    "district": "YEÅžÄ°LYURT",
+    "city": "Malatya"
+  },
+  {
+    "number": "3363",
+    "name": "5M ADANA OPTÄ°MUM",
+    "address": "SinanpaÅŸa Mah. HacÄ± SabancÄ± Blv. No: 28 OptÄ±mum Adana AVM YÃ¼reÄŸir / Adana",
+    "lat": 36.9910507202148,
+    "lng": 35.340404510498,
+    "type": "5M",
+    "district": "YÃœREÄžÄ°R",
+    "city": "Adana"
+  },
+  {
+    "number": "971",
+    "name": "5M ANTALYA",
+    "address": "Arapsuyu Mah. AtatÃ¼rk Bulv. 5M MÄ°GROS Apt. No: 3 / Z18 KONYAALTI / ANTALYA",
+    "lat": 36.8826179504395,
+    "lng": 30.6594142913818,
+    "type": "5M",
+    "district": "KONYAALTI",
+    "city": "Antalya"
+  },
+  {
+    "number": "3730",
+    "name": "5M KONACIK BODRUM",
+    "address": "Merkez Mah. AtatÃ¼rk Blv. No:224/1 KonacÄ±k-Bodrum/Ä°stanbul",
+    "lat": 37.0567855834961,
+    "lng": 27.3690567016602,
+    "type": "5M",
+    "district": "BODRUM",
+    "city": "MuÄŸla"
+  },
+  {
+    "number": "4196",
+    "name": "5M KUÅžADASI",
+    "address": "YAVANSU MAH KARAOVA 1.SOKAK G BLOK NO8-7/2 KUÅžADASI AYDIN",
+    "lat": 37.8095703125,
+    "lng": 27.2772026062012,
+    "type": "5M",
+    "district": "KUÅžADASI",
+    "city": "AydÄ±n"
+  },
+  {
+    "number": "3227",
+    "name": "5M BALCOVA IZMIR",
+    "address": "KorutÃ¼rk Mah. MithatpaÅŸa Cad. No: 1460 Malta kuyusu Mevki BalÃ§ova / Ä°zmir",
+    "lat": 38.3949546813965,
+    "lng": 27.0482749938965,
+    "type": "5M",
+    "district": "BALÃ‡OVA",
+    "city": "Ä°zmir"
+  },
+  {
+    "number": "3672",
+    "name": "5M GAZÄ°EMÄ°R OPTÄ°MUM",
+    "address": "AkÃ§ay Cd. Optimum AlÄ±ÅŸveriÅŸ Merkezi No:101 Gaziemir/izmir",
+    "lat": 38.3385467529297,
+    "lng": 27.1346206665039,
+    "type": "5M",
+    "district": "GAZÄ°EMÄ°R",
+    "city": "Ä°zmir"
+  },
+  {
+    "number": "2163",
+    "name": "5M MANÄ°SA",
+    "address": "Laleli Mah. 5210 Sokak No: 1/A YUNUSEMRE/MANÄ°SA",
+    "lat": 38.6153335571289,
+    "lng": 27.3893299102783,
+    "type": "5M",
+    "district": "YUNUSEMRE",
+    "city": "Manisa"
+  },
+  {
+    "number": "3912",
+    "name": "5M KAHRAMANMARAÅž",
+    "address": "Åžazi Bey Mahallesi Haydar Aliyev Bul. No:3/B105 ONÄ°KÄ°ÅžUBAT/KAHRAMANMARAÅž",
+    "lat": 37.5697212219238,
+    "lng": 36.9219436645508,
+    "type": "5M",
+    "district": "ONIKIÅžUBAT",
+    "city": "KahramanmaraÅŸ"
+  },
+  {
+    "number": "941",
+    "name": "ATAÅžEHÄ°R MACROCENTER",
+    "address": "BRANDÄ°UM AVM -1. BODRUM KAT NO: 1B 03.04 DUDULLU YOLU CAD. ERENKÃ–Y GÃœMRÃœK KARÅžISI KÃœÃ‡ÃœKBAKKALKÃ–Y ATAÅžEHÄ°R/Ä°STANBUL",
+    "lat": 40.9823760986328,
+    "lng": 29.1320304870605,
+    "type": "MACROCENTER",
+    "district": "ATAÅžEHÄ°R",
+    "city": "Ä°stanbul"
+  },
+  {
+    "number": "962",
+    "name": "ATAÅžEHÄ°R MACROCENTER",
+    "address": "Barboros Mah. Dereboyu Cad. ArdÄ±Ã§ Sok. Varyap-Merdiyen H Blok BatÄ± AtaÅŸehir / Ä°stanbul",
+    "lat": 40.9983558654785,
+    "lng": 29.1015491485596,
+    "type": "MACROCENTER",
+    "district": "ATAÅžEHÄ°R",
+    "city": "Ä°stanbul"
+  },
+  {
+    "number": "936",
+    "name": "BÃœYÃœKÃ‡EKMECE MACROCENTER",
+    "address": "Ã‡AMAKLI MAH.ALKOP YOLU CAD.TEM 8 HADIMKÃ–Y GIÅžELER MEVKII ALKENT YEDITEPE VILLALARI BÃœYÃœKÃ‡EKMECE/Ä°STANBUL",
+    "lat": 41.0776405334473,
+    "lng": 28.6231231689453,
+    "type": "MACROCENTER",
+    "district": "BÃœYÃœKÃ‡EKMECE",
+    "city": "Ä°stanbul"
+  },
+  {
+    "number": "948",
+    "name": "SARIYER MACROCENTER",
+    "address": "ReÅŸitpaÅŸa Mah. Ä°stinye BayÄ±rÄ± Cad. No: 73 Ä°stinye Park Avm. SarÄ±yer / Ä°stanbul",
+    "lat": 41.110408782959,
+    "lng": 29.033088684082,
+    "type": "MACROCENTER",
+    "district": "SARIYER",
+    "city": "Ä°stanbul"
+  },
+  {
+    "number": "965",
+    "name": "SARIYER MACROCENTER",
+    "address": "YENIKÃ–Y MAH. KÃ–YBAÅžI CAD. NO 38 SARIYER/Ä°STANBUL",
+    "lat": 41.1268081665039,
+    "lng": 29.069845199585,
+    "type": "MACROCENTER",
+    "district": "SARIYER",
+    "city": "Ä°stanbul"
+  },
+  {
+    "number": "959",
+    "name": "SARIYER MACROCENTER",
+    "address": "KÄ°LYOS CAD. NO:246 B.19/1 USKUMRUKÃ–Y SARIYER/Ä°STANBUL",
+    "lat": 41.2128028869629,
+    "lng": 29.0385856628418,
+    "type": "MACROCENTER",
+    "district": "SARIYER",
+    "city": "Ä°stanbul"
+  },
+  {
+    "number": "966",
+    "name": "SARIYER MACROCENTER",
+    "address": "ViÅŸne 2 Mah. 3. Cad. No: 2/1 Garanti Koza ZekeriyakÃ¶y Evleri SarÄ±yer / Ä°stanbul",
+    "lat": 41.2088813781738,
+    "lng": 29.0227508544922,
+    "type": "MACROCENTER",
+    "district": "SARIYER",
+    "city": "Ä°stanbul"
+  },
+  {
+    "number": "938",
+    "name": "BAKIRKÃ–Y MACROCENTER",
+    "address": "ÅženlikkÃ¶y Mah. YeÅŸilkÃ¶y HalkalÄ± Cad. Aqua Florya AVM BakÄ±rkÃ¶y / Ä°stanbul",
+    "lat": 40.9660530090332,
+    "lng": 28.7975845336914,
+    "type": "MACROCENTER",
+    "district": "BAKIRKÃ–Y",
+    "city": "Ä°stanbul"
+  },
+  {
+    "number": "947",
+    "name": "EYÃœP MACROCENTER",
+    "address": "GÃ¶ktÃ¼rk Mah. Ä°stanbul Cad. Artell Forum Sitesi No: 17/20 GÃ¶ktÃ¼rk / EyÃ¼p / Ä°stanbul",
+    "lat": 41.1797065734863,
+    "lng": 28.8838119506836,
+    "type": "MACROCENTER",
+    "district": "EYÃœP",
+    "city": "Ä°stanbul"
+  },
+  {
+    "number": "951",
+    "name": "EYÃœP MACROCENTER",
+    "address": "GÃ–KTÃœRK MAH.KEMERBURGAZ YOLU KEMER COUNTRY EYÃœP/Ä°STANBUL",
+    "lat": 41.1762657165527,
+    "lng": 28.9004783630371,
+    "type": "MACROCENTER",
+    "district": "EYÃœP",
+    "city": "Ä°stanbul"
+  },
+  {
+    "number": "943",
+    "name": "ÅžÄ°ÅžLÄ° MACROCENTER",
+    "address": "TeÅŸvikiye Mah. TeÅŸvikiye Cad. No:160/B 310 NiÅŸantaÅŸÄ± /ÅžiÅŸli /Ä°stanbul",
+    "lat": 41.0511131286621,
+    "lng": 28.9922924041748,
+    "type": "MACROCENTER",
+    "district": "ÅžÄ°ÅžLÄ°",
+    "city": "Ä°stanbul"
+  },
+  {
+    "number": "949",
+    "name": "ÅžÄ°ÅžLÄ° MACROCENTER",
+    "address": "ESENTEPE MAH.BÃœYÃœKDERE CAD. KANYON AVM-2.BODRUM KAT NO:185 ÅžÄ°ÅžLÄ°/Ä°STANBUL",
+    "lat": 41.0781288146973,
+    "lng": 29.0116996765137,
+    "type": "MACROCENTER",
+    "district": "ÅžÄ°ÅžLÄ°",
+    "city": "Ä°stanbul"
+  },
+  {
+    "number": "957",
+    "name": "ÅžÄ°ÅžLÄ° MACROCENTER",
+    "address": "HARBIYE MAH .ABDI Ä°PEKÃ‡I CAD. NO 24-28 ADA APT. NIÅžANTAÅžI/ÅžIÅžLI/Ä°STANBUL",
+    "lat": 41.0491905212402,
+    "lng": 28.9919204711914,
+    "type": "MACROCENTER",
+    "district": "ÅžÄ°ÅžLÄ°",
+    "city": "Ä°stanbul"
+  },
+  {
+    "number": "967",
+    "name": "BEÅžÄ°KTAÅž MACROCENTER",
+    "address": "LEVAZIM MAH.KORU SOKAK NO:2 ZORLU CENTER AVM1.KAT BEÅžÄ°KTAÅžBEÅžÄ°KTAÅž/Ä°STANBUL",
+    "lat": 41.0668144226074,
+    "lng": 29.0157909393311,
+    "type": "MACROCENTER",
+    "district": "BEÅžÄ°KTAÅž",
+    "city": "Ä°stanbul"
+  },
+  {
+    "number": "953",
+    "name": "BEÅžÄ°KTAÅž MACROCENTER",
+    "address": "KURUÃ‡EÅžME MAH.MUALLIM NACI CAD. NO:170 BEÅžIKTAÅž/Ä°STANBUL",
+    "lat": 41.0580101013184,
+    "lng": 29.0356044769287,
+    "type": "MACROCENTER",
+    "district": "BEÅžÄ°KTAÅž",
+    "city": "Ä°stanbul"
+  },
+  {
+    "number": "934",
+    "name": "BEÅžÄ°KTAÅž MACROCENTER",
+    "address": "ETILER MAH.NISPETIYE CAD.NO:325 AKMERKEZ F BLOK BEÅžIKTAÅž/Ä°STANBUL",
+    "lat": 41.0768356323242,
+    "lng": 29.0275936126709,
+    "type": "MACROCENTER",
+    "district": "BEÅžÄ°KTAÅž",
+    "city": "Ä°stanbul"
+  },
+  {
+    "number": "956",
+    "name": "BEÅžÄ°KTAÅž MACROCENTER",
+    "address": "NÄ°SPETÄ°YE CAD.NO:10/107 LEVENT-BEÅžÄ°KTAÅž",
+    "lat": 41.0741195678711,
+    "lng": 29.0169467926025,
+    "type": "MACROCENTER",
+    "district": "BEÅžÄ°KTAÅž",
+    "city": "Ä°stanbul"
+  },
+  {
+    "number": "942",
+    "name": "KADIKÃ–Y MACROCENTER",
+    "address": "FenerbahÃ§e Mah. Cemil Topuzlu Cad. No:4/A KadÄ±kÃ¶y/Ä°stanbul",
+    "lat": 40.973934173584,
+    "lng": 29.0473175048828,
+    "type": "MACROCENTER",
+    "district": "KADIKÃ–Y",
+    "city": "Ä°stanbul"
+  },
+  {
+    "number": "933",
+    "name": "ÃœSKÃœDAR MACROCENTER",
+    "address": "AKASYA TÄ°CARET MERKEZÄ° ACIBADEM MH.Ã‡EÃ‡EN SK. NO:12",
+    "lat": 41.0018615722656,
+    "lng": 29.0546741485596,
+    "type": "MACROCENTER",
+    "district": "ÃœSKÃœDAR",
+    "city": "Ä°stanbul"
+  },
+  {
+    "number": "932",
+    "name": "ÃœSKÃœDAR MACROCENTER",
+    "address": "AcÄ±badem Mah.AcÄ±badem Cad. No:166/AÃœSKÃœDAR/Ä°STANBUL ÃœSKÃœDAR/Ä°STANBUL",
+    "lat": 41.0087661743164,
+    "lng": 29.0504760742188,
+    "type": "MACROCENTER",
+    "district": "ÃœSKÃœDAR",
+    "city": "Ä°stanbul"
+  },
+  {
+    "number": "940",
+    "name": "BEYKOZ MACROCENTER",
+    "address": "Acarlar Mah. 9. Cadde No: 9BEYKOZ/Ä°STANBUL BEYKOZ/Ä°STANBUL",
+    "lat": 41.1094856262207,
+    "lng": 29.1217250823975,
+    "type": "MACROCENTER",
+    "district": "BEYKOZ",
+    "city": "Ä°stanbul"
+  },
+  {
+    "number": "931",
+    "name": "BEYKOZ MACROCENTER",
+    "address": "Acarlar Mah. 9. Cad. No: 9 Beykoz / Ä°stanbul",
+    "lat": 41.1094856262207,
+    "lng": 29.1217250823975,
+    "type": "MACROCENTER",
+    "district": "BEYKOZ",
+    "city": "Ä°stanbul"
+  },
+  {
+    "number": "955",
+    "name": "Ã‡ANKAYA MACROCENTER",
+    "address": "KIZILIRMAK MAH. DUMLUPINAR BLV. NO: 3/C1 06520 SÃ–ÄžÃœTÃ–Z Ã‡ANKAYA / ANKARA",
+    "lat": 39.9114761352539,
+    "lng": 32.8127708435059,
+    "type": "MACROCENTER",
+    "district": "Ã‡ANKAYA",
+    "city": "Ankara"
+  },
+  {
+    "number": "939",
+    "name": "Ã‡ANKAYA MACROCENTER",
+    "address": "Koru Mah. 2432. Cad. (Eski 8.Cadde) No:192 Ã‡ANKAYA/ANKARA",
+    "lat": 39.8829383850098,
+    "lng": 32.6861381530762,
+    "type": "MACROCENTER",
+    "district": "Ã‡ANKAYA",
+    "city": "Ankara"
+  },
+  {
+    "number": "950",
+    "name": "Ã‡ANKAYA MACROCENTER",
+    "address": "Ã‡ankaya Mah.Ä°ran Cad.No:8A/2Ã‡ANKAYA/ANKARA Ã‡ANKAYA/ANKARA",
+    "lat": 39.8990707397461,
+    "lng": 32.8625259399414,
+    "type": "MACROCENTER",
+    "district": "Ã‡ANKAYA",
+    "city": "Ankara"
+  },
+  {
+    "number": "958",
+    "name": "Ã‡ANKAYA MACROCENTER",
+    "address": "Oran Mahallesi, KudÃ¼s Caddesi No:6/A-14 Ã‡ANKAYA/ANKARA",
+    "lat": 39.8497161865234,
+    "lng": 32.8351745605469,
+    "type": "MACROCENTER",
+    "district": "Ã‡ANKAYA",
+    "city": "Ankara"
+  },
+  {
+    "number": "945",
+    "name": "Ã‡ANKAYA MACROCENTER",
+    "address": "BÃœYÃœKESAT MAH.UÄžUR MUMCU CAD.NO:62 Ã‡ANKAYA\\ANKARA",
+    "lat": 39.8934211730957,
+    "lng": 32.8767356872559,
+    "type": "MACROCENTER",
+    "district": "Ã‡ANKAYA",
+    "city": "Ankara"
+  },
+  {
+    "number": "935",
+    "name": "Ã‡EÅžME MACROCENTER",
+    "address": "Ä°SMET PAÅžA MAH. 6033 SK. NO:4 ALAÃ‡ATI/Ã‡EÅžME/Ä°ZMÄ°R",
+    "lat": 38.2894287109375,
+    "lng": 26.3832912445068,
+    "type": "MACROCENTER",
+    "district": "Ã‡EÅžME",
+    "city": "Ä°zmir"
+  },
+  {
+    "number": "954",
+    "name": "KARÅžIYAKA MACROCENTER",
+    "address": "MAVÄ°ÅžEHÄ°R MAH.AZÄ°Z NESÄ°N BULVARI NO:26 B BLOK KARÅžIYAKA\\ÅžÄ°ZMÄ°R",
+    "lat": 38.4725151062012,
+    "lng": 27.0742645263672,
+    "type": "MACROCENTER",
+    "district": "KARÅžIYAKA",
+    "city": "Ä°zmir"
+  },
+  {
+    "number": "937",
+    "name": "KONAK MACROCENTER",
+    "address": "KÃœLTÃœR MAH.TALATPAÅžA BULVERI NO:11/B KONAK",
+    "lat": 38.4336128234863,
+    "lng": 27.13987159729,
+    "type": "MACROCENTER",
+    "district": "KONAK",
+    "city": "Ä°zmir"
+  },
+  {
+    "number": "961",
+    "name": "BODRUM MACROCENTER",
+    "address": "GÃ¶ltÃ¼rkbÃ¼kÃ¼ Mahallesi ,AtatÃ¼rk Caddesi,No: 24/1-2BODRUM/MUÄžLA BODRUM/MUÄžLA",
+    "lat": 0,
+    "lng": 0,
+    "type": "MACROCENTER",
+    "district": "BODRUM",
+    "city": "MuÄŸla"
+  },
+  {
+    "number": "964",
+    "name": "BODRUM MACROCENTER",
+    "address": "PAL MARÄ°NA Ã‡Ã–KERTME CD. NO:6 YALIKAVAK/BODRUM/MUÄžLA",
+    "lat": 37.1031265258789,
+    "lng": 27.2877178192139,
+    "type": "MACROCENTER",
+    "district": "BODRUM",
+    "city": "MuÄŸla"
+  },
+  {
+    "number": "963",
+    "name": "BODRUM MACROCENTER",
+    "address": "Merkez Mah. Tahsildar Ä°brahim Sok. No: 8/A Bodrum / MuÄŸla",
+    "lat": 37.1044998168945,
+    "lng": 27.2918033599854,
+    "type": "MACROCENTER",
+    "district": "BODRUM",
+    "city": "MuÄŸla"
+  },
+  {
+    "number": "944",
+    "name": "BODRUM MACROCENTER",
+    "address": "GAZÄ° MUSTAFA KEMAL BLV. NO:26 D MARÄ°N AVM 12-1 TURGUTREÄ°S/BODRUM/MUÄžLA",
+    "lat": 37.0030555725098,
+    "lng": 27.2580547332764,
+    "type": "MACROCENTER",
+    "district": "BODRUM",
+    "city": "MuÄŸla"
+  },
+  {
+    "number": "946",
+    "name": "FETHÄ°YE MACROCENTER",
+    "address": "Cumhuriyet Mah.Turgut Ã–zal Cad.Okaliptus Ä°ÅŸ MerkezGÃ¶cekFETHÄ°YE/MUÄžLA",
+    "lat": 0,
+    "lng": 0,
+    "type": "MACROCENTER",
+    "district": "FETHÄ°YE",
+    "city": "MuÄŸla"
+  },
+  {
+    "address": "SELÄ°MÄ°YE MAH.BURUNCUK SOKAK NO:58/1 ",
+    "name": "MARMARÄ°S MACROCENTER",
+    "district": "MARMARÄ°S",
+    "type": "MACROCENTER",
+    "lat": 36.7059322,
+    "lng": 28.0940486,
+    "number": "970",
+    "city": "MuÄŸla"
+  },
+  {
+    "number": "952",
+    "name": "KONYAALTI MACROCENTER",
+    "address": "Liman Mah.AtatÃ¼rk Blv.Necla Bileydi Apt.A/Blok No:242 A-5/242 B-6 KonyaaltÄ±/Antalya",
+    "lat": 36.8480834960938,
+    "lng": 30.6119842529297,
+    "type": "MACROCENTER",
+    "district": "KONYAALTI",
+    "city": "Antalya"
+  },
+  {
+    "number": "960",
+    "name": "MURATPAÅžA MACROCENTER",
+    "address": "Fener Mah. TekelioÄŸlu Cad. No: 55 Terra City AVM MuratpaÅŸa / Antalya",
+    "lat": 36.8526420593262,
+    "lng": 30.7565689086914,
+    "type": "MACROCENTER",
+    "district": "MURATPAÅžA",
+    "city": "Antalya"
   }
 ]
